@@ -8,9 +8,10 @@ To run the script, you can run the loadstring provided:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tranta12/krypton/refs/heads/main/MainScript.lua"))()
 ```
-<details>
 
 ## Checklist
+<details>
+
 <summary>To-do/summary>
 - [x] Add first module.
 - [x] Fix "CustomGui" detection.
