@@ -12,7 +12,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Tranta12/krypton/refs
 ## Checklist
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>To-do</summary>
 
 - [x] Fix detection for "CustomGui"
 - [x] Add modules
