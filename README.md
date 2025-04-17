@@ -1,3 +1,6 @@
+> [!WARNING]
+> This script is in pre-alpha, and is unstable and unsafe to use.
+
 # Krypton
 A Roblox script built from scratch to enhance your EToH experience  
 ## Usage
