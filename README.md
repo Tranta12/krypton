@@ -13,8 +13,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Tranta12/krypton/refs
 <details>
 
 <summary>To-do/summary>
+  
 - [x] Add first module.
 - [x] Fix "CustomGui" detection.
 - [ ] Hide gui function.
 - [ ] Add settings.
+
 </details>
