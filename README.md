@@ -14,14 +14,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Tranta12/krypton/refs
 
 <summary>Tips for collapsed sections</summary>
 
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
+- [x] Fix detection for "CustomGui"
+- [x] Add modules
+- [ ] Add settings tab
 
 </details>
