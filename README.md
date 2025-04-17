@@ -12,7 +12,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Tranta12/krypton/refs
 ## Checklist
 <details>
 
-<summary>To-do</summary>
+<summary>Checklist of unfinished things to do!</summary>
 
 - [x] Fix detection for "CustomGui"
 - [x] Add modules
